@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+
 struct Shut_the_boxApp: App {
     var body: some Scene {
         WindowGroup {
